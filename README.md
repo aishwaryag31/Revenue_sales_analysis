@@ -23,8 +23,6 @@ The dataset powering this dashboard includes essential retail metrics for perfor
 - **Transactions:** The total number of sales transactions recorded.
 - **Sales Representative Performance:** Detailed data on individual representatives, including transaction counts and revenue metrics.
 
-This dataset provides a solid foundation for analyzing performance and identifying areas of improvement.
-
 ---
 
 ## **Tools Used**
@@ -42,8 +40,6 @@ This dashboard delivers a wealth of insights that are critical for effective dec
 - **Store-Level Insights:** Evaluate the contributions of individual stores to overall revenue and identify top-performing locations.
 - **Product Analysis:** Gain clarity on product category performance to prioritize inventory, marketing, and pricing strategies.
 - **Sales Rep Evaluation:** Benchmark sales representatives based on their transaction counts and revenue contributions to optimize team performance.
-
-These insights empower businesses to make data-driven decisions, optimize operations, and improve profitability.
 
 ---
 
